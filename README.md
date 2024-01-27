@@ -3,7 +3,7 @@
 Dice roll game
 
 
-![Tenzi:](https://github.com/zerrynlh/BidBay/blob/main/commerce/auctions/static/images/bidbay3.png)
+![Tenzi:](https://github.com/zerrynlh/Tenzie/blob/main/src/styles/tenzie1.png)
 
 ### Description:
 The object of the game is to roll the dice and get all dice on the same number. Once all dice are the same, the game is worn.
