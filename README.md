@@ -2,7 +2,7 @@
 
 Dice roll game
 
-The game website is availabe ![here](https://magnificent-froyo-7879d6.netlify.app/)!
+The game website is availabe [here](https://magnificent-froyo-7879d6.netlify.app/)!
 
 ![Tenzi:](https://github.com/zerrynlh/Tenzie/blob/main/src/styles/tenzie1.png)
 
