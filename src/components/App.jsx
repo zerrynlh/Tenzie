@@ -17,7 +17,7 @@ export default function App() {
 
         if (tenzies) {
             setDie(genNum);
-            checkGame(false);
+            setTenzie(false);
         }
     }
 
