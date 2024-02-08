@@ -6,7 +6,7 @@ The game website is availabe [here](https://magnificent-froyo-7879d6.netlify.app
 
 ![Tenzi:](https://github.com/zerrynlh/Tenzie/blob/main/src/styles/tenzie1.png)
 
-## Description:
+# Description:
 The objective of the game is to roll the dice and get all dice on the same number. Once all dice are the same, the game is won.
 
 #### Install dependencies:
