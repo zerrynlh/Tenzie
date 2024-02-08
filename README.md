@@ -10,10 +10,14 @@ The game website is availabe [here](https://magnificent-froyo-7879d6.netlify.app
 The objective of the game is to roll the dice and get all dice on the same number. Once all dice are the same, the game is won.
 
 #### Install dependencies:
->npm install
+```
+npm install
+```
 
 #### To run this application:
->npm run dev
+```
+npm run dev
+```
 
 ### Features:
 - React used for a seamless, responsive user experience
